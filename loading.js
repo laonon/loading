@@ -192,9 +192,7 @@
             }
         }
 
-        function animaiton(){//显示进度缓冲
-
-        }
+       
         loadImage();
         return {
             done: function(f) {
